@@ -1,3 +1,15 @@
+chat-env
+*.txt
+*.json
+*.csv
+*.h5
+*.pkl
+*.pred
+*.jpg
+polyAI_OpenSubtitles
+reddit
+models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
